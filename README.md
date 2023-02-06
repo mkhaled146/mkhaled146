@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moro146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moro146" height="30" width="40" /></a>
-<a href="[mohamed khaled](https://www.kaggle.com/moro146)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed khaled" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/moro146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed khaled" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
